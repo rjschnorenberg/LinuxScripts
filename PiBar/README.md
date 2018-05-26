@@ -7,4 +7,4 @@ PiBar is a Raspberry Pi based music player that I installed in my bar. The [mpdl
 * [5v Buck](https://www.adafruit.com/product/1385)
 
 ## Wiring
-![breadboard](breadboard.jpg)
+![Bread Board](BreadBoard.jpg)
